@@ -1,5 +1,5 @@
 # artvee-png
-Abstract Paintings from the public domain to be used as base material in the other 2 repos
+Abstract Paintings from the public domain to be used as base material in the profile-repos [Artwing-tui](https://github.com/andri-berger/artwing-tui) and  [Artwork-tui](https://github.com/andri-berger/artwork-tui) 
 
 <table>
 <tr>
@@ -15,16 +15,16 @@ Abstract Paintings from the public domain to be used as base material in the oth
     <img src="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg"></a></td>
 </tr>
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>  
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>  
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/angel_zarraga/1915-muchachita-con-frutas.jpg">
+    <img src="Formel/angel_zarraga/1915-muchachita-con-frutas.jpg"></a></td>
+    <td><a href="Formel/antonin_prochazka/1911-prometheus-6.jpg">
+    <img src="Formel/antonin_prochazka/1911-prometheus-6.jpg"></a></td>
+    <td><a href="Formel/arthur_segal/1910-bahndamm-im-schnee.jpg">
+    <img src="Formel/arthur_segal/1910-bahndamm-im-schnee.jpg"></a></td>  
+    <td><a href="Formel/august_babberger/1906-blumen-4.jpg">
+    <img src="Formel/august_babberger/1906-blumen-4.jpg"></a></td>  
+    <td><a href="Formel/constant_permeke/1912-koestal.jpg">
+    <img src="Formel/constant_permeke/1912-koestal.jpg"></a></td>
 </tr>
 <tr>
     <td><a href="Formel/">
