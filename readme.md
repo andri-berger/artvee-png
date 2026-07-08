@@ -3,32 +3,32 @@ Abstract Paintings from the public domain to be used as base material in the oth
 
 <table>
 <tr>
-    <td><a href="/1780150638.png">
-    <img src="Formel/1780150638.png"></a></td>
-    <td><a href="Formel/1780150643.png">
-    <img src="Formel/1780150643.png"></a></td>
-    <td><a href="Formel/1780150675.png">
-    <img src="Formel/1780150675.png"></a></td>
-    <td><a href="Formel/1780150689.png">
-    <img src="Formel/1780150689.png"></a></td>
-    <td><a href="Formel/1780150715.png">
-    <img src="Formel/1780150715.png"></a></td>
+    <td><a href="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg">
+    <img src="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg"></a></td>
+    <td><a href="Formel/albert_gleizes/1911-paysage-a-meudon.jpg">
+    <img src="Formel/albert_gleizes/1911-paysage-a-meudon.jpg"></a></td>
+    <td><a href="Formel/alexandra_exter/1927-constructivist-stage-design.jpg">
+    <img src="Formel/alexandra_exter/1927-constructivist-stage-design.jpg"></a></td>
+    <td><a href="Formel/alfred_henry_maurer/1909-1910-still-life-31.jpg">
+    <img src="Formel/alfred_henry_maurer/1909-1910-still-life-31.jpg"></a></td>
+    <td><a href="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg">
+    <img src="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg"></a></td>
 </tr>
 <tr>
-    <td><a href="Formel/1780150731.png">
-    <img src="Formel/1780150731.png"></a></td>
-    <td><a href="Formel/1780150740.png">
-    <img src="Formel/1780150740.png"></a></td>
-    <td><a href="Formel/1780150748.png">
-    <img src="Formel/1780150748.png"></a></td>  
-    <td><a href="Formel/1780151480.png">
-    <img src="Formel/1780151480.png"></a></td>  
-    <td><a href="Formel/1780151501.png">
-    <img src="Formel/1780151501.png"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>  
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>  
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
 </tr>
 <tr>
-    <td><a href="Formel/1780151522.png">
-    <img src="Formel/1780151522.png"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
     <td><a href="Formel/1780159196.png">
     <img src="Formel/1780159196.png"></a></td>
     <td><a href="Formel/1780159214.png">
