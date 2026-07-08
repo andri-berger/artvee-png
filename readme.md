@@ -27,16 +27,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
     <img src="Formel/constant_permeke/1912-koestal.jpg"></a></td>
 </tr>
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/1780159196.png">
-    <img src="Formel/1780159196.png"></a></td>
-    <td><a href="Formel/1780159214.png">
-    <img src="Formel/1780159214.png"></a></td>
-    <td><a href="Formel/1780159226.png">
-    <img src="Formel/1780159226.png"></a></td>
-    <td><a href="Formel/1780159230.png">
-    <img src="Formel/1780159230.png"></a></td>  
+    <td><a href="Formel/david_kakabadze/1921-abstraction-based-on-flower-forms-i.jpg">
+    <img src="Formel/david_kakabadze/1921-abstraction-based-on-flower-forms-i.jpg"></a></td>
+    <td><a href="Formel/el_lissitzky/1919-beat-the-whites-with-the-red-wedge.jpg">
+    <img src="Formel/el_lissitzky/1919-beat-the-whites-with-the-red-wedge.jpg"></a></td>
+    <td><a href="Formel/emile_othon_friesz/1904-1907-skovinterieur-med-braendehugger-la-cote-de-grace-honfleur.jpg">
+    <img src="Formel/emile_othon_friesz/1904-1907-skovinterieur-med-braendehugger-la-cote-de-grace-honfleur.jpg"></a></td>
+    <td><a href="Formel/felix_del_marle/1912-15-tremoutarde-rythme.jpg">
+    <img src="Formel/felix_del_marle/1912-15-tremoutarde-rythme.jpg"></a></td>
+    <td><a href="Formel/florine_stettheimer/1922-carl-van-vechten.jpg">
+    <img src="Formel/florine_stettheimer/1922-carl-van-vechten.jpg"></a></td>  
 </tr>
 <tr>
     <td><a href="Formel/1780159311.png">
