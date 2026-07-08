@@ -1,5 +1,5 @@
 # artvee-png
-Abstract Paintings from the public domain to be used as base material in the profile-repos [Artwing-tui](https://github.com/andri-berger/artwing-tui) and  [Artwork-tui](https://github.com/andri-berger/artwork-tui). See [Artvee](https://artvee.com) for 
+Abstract Paintings from the public domain to be used as base material in the profile-repos [Artwing-tui](https://github.com/andri-berger/artwing-tui) and  [Artwork-tui](https://github.com/andri-berger/artwork-tui). See [Artvee](https://artvee.com) for the initial curation.
 
 <table>
 <tr>
