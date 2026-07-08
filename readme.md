@@ -51,15 +51,15 @@ Abstract Paintings from the public domain to be used as base material in the pro
     <img src="Formel/gejza_schiller/1921-hlava-muza.jpg"></a></td>
 </tr>
 <tr>
-    <td><a href="Formel/1780159636.png">
-    <img src="Formel/1780159636.png"></a></td>
-    <td><a href="Formel/1780159664.png">
-    <img src="Formel/1780159664.png"></a></td>
-    <td><a href="Formel/1780159667.png">
-    <img src="Formel/1780159667.png"></a></td>
-    <td><a href="Formel/1780159675.png">
-    <img src="Formel/1780159675.png"></a></td>
-    <td><a href="Formel/1780159679.png">
-    <img src="Formel/1780159679.png"></a></td>
+    <td><a href="Formel/georges_gaudion/1910-cubist-village-2.jpg">
+    <img src="Formel/georges_gaudion/1910-cubist-village-2.jpg"></a></td>
+    <td><a href="Formel/gustave_de_smet/1907-fair-at-vrijdagmarkt-in-ghent.jpg">
+    <img src="Formel/gustave_de_smet/1907-fair-at-vrijdagmarkt-in-ghent.jpg"></a></td>
+    <td><a href="Formel/henri_matisse/1905-1906-le-bonheur-de-vivre-also-called-the-joy-of-life.jpg">
+    <img src="Formel/henri_matisse/1905-1906-le-bonheur-de-vivre-also-called-the-joy-of-life.jpg"></a></td>
+    <td><a href="Formel/hilma_af_klint/1906-07-primordial-chaos-no-16-the-wu-rosen-series-grupp-1.jpg">
+    <img src="Formel/hilma_af_klint/1906-07-primordial-chaos-no-16-the-wu-rosen-series-grupp-1.jpg"></a></td>
+    <td><a href="Formel/howard_taft_lorenz/1935-1943-family-picnic.jpg">
+    <img src="Formel/howard_taft_lorenz/1935-1943-family-picnic.jpg"></a></td>
 </tr>
 </table>
