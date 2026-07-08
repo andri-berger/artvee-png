@@ -39,16 +39,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
     <img src="Formel/florine_stettheimer/1922-carl-van-vechten.jpg"></a></td>  
 </tr>
 <tr>
-    <td><a href="Formel/1780159311.png">
-    <img src="Formel/1780159311.png"></a></td>
-    <td><a href="Formel/1780159326.png">
-    <img src="Formel/1780159326.png"></a></td>
-    <td><a href="Formel/1780159589.png">
-    <img src="Formel/1780159589.png"></a></td>
-    <td><a href="Formel/1780159608.png">
-    <img src="Formel/1780159608.png"></a></td>
-    <td><a href="Formel/1780159627.png">
-    <img src="Formel/1780159627.png"></a></td>
+    <td><a href="Formel/francis_picabia/1905-sans-titre-17.jpg">
+    <img src="Formel/francis_picabia/1905-sans-titre-17.jpg"></a></td>
+    <td><a href="Formel/francois_louis_schmied/1922-athos-le-monastere-de-valopedie.jpg">
+    <img src="Formel/francois_louis_schmied/1922-athos-le-monastere-de-valopedie.jpg"></a></td>
+    <td><a href="Formel/frits_van_den_berghe/1912-bloemen-8.jpg">
+    <img src="Formel/frits_van_den_berghe/1912-bloemen-8.jpg"></a></td>
+    <td><a href="Formel/fritz_stuckenberg/1919-abstrakte-komposition-2.jpg">
+    <img src="Formel/fritz_stuckenberg/1919-abstrakte-komposition-2.jpg"></a></td>
+    <td><a href="Formel/gejza_schiller/1921-hlava-muza.jpg">
+    <img src="Formel/gejza_schiller/1921-hlava-muza.jpg"></a></td>
 </tr>
 <tr>
     <td><a href="Formel/1780159636.png">
