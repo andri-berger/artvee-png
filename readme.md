@@ -142,16 +142,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/marek_wlodarski/1924-childhood-memories.jpg">
+    <img src="Formel/marek_wlodarski/1924-childhood-memories.jpg"></a></td>
+    <td><a href="Formel/maria_blanchard/1916-1918-still-life-with-red-lamp.jpg">
+    <img src="Formel/maria_blanchard/1916-1918-still-life-with-red-lamp.jpg"></a></td>
+    <td><a href="Formel/marsden_hartley/1889-1943-geometric-figure.jpg">
+    <img src="Formel/marsden_hartley/1889-1943-geometric-figure.jpg"></a></td>
+    <td><a href="Formel/mary_gartside/1808-blue.jpg">
+    <img src="Formel/mary_gartside/1808-blue.jpg"></a></td>
+    <td><a href="Formel/max_beckmann/1909-scene-from-the-destruction-of-messina.jpg">
+    <img src="Formel/max_beckmann/1909-scene-from-the-destruction-of-messina.jpg"></a></td>
 </tr>
 
 <tr>
