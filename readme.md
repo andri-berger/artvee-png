@@ -90,16 +90,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/.jpg">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/jose_de_martin_simon/1958-al-estilo-de-arteta.jpg">
+    <img src="Formel/jose_de_martin_simon/1958-al-estilo-de-arteta.jpg"></a></td>
+    <td><a href="Formel/josef_eberz/1915-begrabnis.jpg">
+    <img src="Formel/josef_eberz/1915-begrabnis.jpg"></a></td>
+    <td><a href="Formel/joseph_pennell/1894-1909-blue-night-london.jpg">
+    <img src="Formel/joseph_pennell/1894-1909-blue-night-london.jpg"></a></td>
+    <td><a href="Formel/joseph_schillinger/1934-area-broken-by-perpendiculars.jpg">
+    <img src="Formel/joseph_schillinger/1934-area-broken-by-perpendiculars.jpg"></a></td>
+    <td><a href="Formel/joseph_stella/1913-14-battle-of-lights-coney-island-mardi-gras.jpg">
+    <img src="Formel/joseph_stella/1913-14-battle-of-lights-coney-island-mardi-gras.jpg"></a></td>
 </tr>
 
 <tr>
