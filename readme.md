@@ -103,20 +103,20 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/.jpg">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/juan_gris/1911-bock-de-biere-2.jpg">
+    <img src="Formel/juan_gris/1911-bock-de-biere-2.jpg"></a></td>
+    <td><a href="Formel/jules_bourgoin/1879-les-elements-de-lart-arabe-pl-086.jpg">
+    <img src="Formel/jules_bourgoin/1879-les-elements-de-lart-arabe-pl-086.jpg"></a></td>
+    <td><a href="Formel/julio_gonzalez/1928-maisons-rurales-en-hiver.jpg">
+    <img src="Formel/julio_gonzalez/1928-maisons-rurales-en-hiver.jpg"></a></td>
+    <td><a href="Formel/karl_wiener/1919-das-altbekannte-originelle-abendlokal.jpg">
+    <img src="Formel/karl_wiener/1919-das-altbekannte-originelle-abendlokal.jpg"></a></td>
+    <td><a href="Formel/karol_hiller/1928-deska-0.jpg">
+    <img src="Formel/karol_hiller/1928-deska-0.jpg"></a></td>
 </tr>
 
 <tr>
-    <td><a href="Formel/.jpg">
+    <td><a href="Formel/">
     <img src="Formel/"></a></td>
     <td><a href="Formel/">
     <img src="Formel/"></a></td>
