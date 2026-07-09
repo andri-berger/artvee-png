@@ -64,15 +64,15 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/hugo_scheiber/1918-grosstadtszene.jpg">
+    <img src="Formel/1918-grosstadtszene.jpg"></a></td>
+    <td><a href="Formel/james_ensor/1880-etoffes-bleues-et-roses.jpg">
+    <img src="Formel/james_ensor/1880-etoffes-bleues-et-roses.jpg"></a></td>
+    <td><a href="Formel/james_ward/1912-agreeable-contrast-of-plum-violet-and-sage-green.jpg">
+    <img src="Formel/james_ward/1912-agreeable-contrast-of-plum-violet-and-sage-green.jpg"></a></td>
+    <td><a href="Formel/jankel_adler/1929-ohne-titel-21.jpg">
+    <img src="Formel/jankel_adler/1929-ohne-titel-21.jpg"></a></td>
+    <td><a href="Formel/jerzy_hulewicz/1917-bell-hangman-2.jpg">
+    <img src="Formel/jerzy_hulewicz/1917-bell-hangman-2.jpg"></a></td>
 </tr>
 </table>
