@@ -129,16 +129,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/lorenz_stoer/1567-geometria-et-perspectiva-pl-01.jpg">
+    <img src="Formel/lorenz_stoer/1567-geometria-et-perspectiva-pl-01.jpg"></a></td>
+    <td><a href="Formel/louis_marcoussis/1912-16-nature-morte-a-las-de-trefle.jpg">
+    <img src="Formel/louis_marcoussis/1912-16-nature-morte-a-las-de-trefle.jpg"></a></td>
+    <td><a href="Formel/louis_valtat/1898-jeux-denfants-2.jpg">
+    <img src="Formel/louis_valtat/1898-jeux-denfants-2.jpg"></a></td>
+    <td><a href="Formel/lyubov_popova/1914-untitled-seated-nude.jpg">
+    <img src="Formel/lyubov_popova/1914-untitled-seated-nude.jpg"></a></td>
+    <td><a href="Formel/mainie_jellett/1925-composition-19.jpg">
+    <img src="Formel/mainie_jellett/1925-composition-19.jpg"></a></td>
 </tr>
 
 <tr>
