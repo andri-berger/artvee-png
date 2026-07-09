@@ -116,6 +116,58 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
+    <td><a href="Formel/kazimir_malevich/1912-13-tochilschik-printsip-melkaniia-the-knife-grinder-or-principle-of-glittering.jpg">
+    <img src="Formel/kazimir_malevich/1912-13-tochilschik-printsip-melkaniia-the-knife-grinder-or-principle-of-glittering.jpg"></a></td>
+    <td><a href="Formel/laszlo_moholy_nagy/1920-22-konstruktion.jpg">
+    <img src="Formel/laszlo_moholy_nagy/1920-22-konstruktion.jpg"></a></td>
+    <td><a href="Formel/leon_chwistek/1917-1922-zakopane-in-new-york.jpg">
+    <img src="Formel/leon_chwistek/1917-1922-zakopane-in-new-york.jpg"></a></td>
+    <td><a href="Formel/leon_spilliaert/1904-the-gust-of-wind-2.jpg">
+    <img src="Formel/leon_spilliaert/1904-the-gust-of-wind-2.jpg"></a></td>
+    <td><a href="Formel/lola_liivat/1957-moonid.jpg">
+    <img src="Formel/lola_liivat/1957-moonid.jpg"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+</tr>
+
+<tr>
     <td><a href="Formel/">
     <img src="Formel/"></a></td>
     <td><a href="Formel/">
