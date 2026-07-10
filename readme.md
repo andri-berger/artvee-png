@@ -194,16 +194,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/piet_mondrian/1908-1909-apple-tree-pointillist-version.jpg">
+    <img src="Formel/piet_mondrian/1908-1909-apple-tree-pointillist-version.jpg"></a></td>
+    <td><a href="Formel/preston_dickinson/1909-1919-the-black-house.jpg">
+    <img src="Formel/preston_dickinson/1909-1919-the-black-house.jpg"></a></td>
+    <td><a href="Formel/ragnhild_keyser/1925-still-life-103.jpg">
+    <img src="Formel/ragnhild_keyser/1925-still-life-103.jpg"></a></td>
+    <td><a href="Formel/raoul_dufy/1909-1910-les-bateaux-2.jpg">
+    <img src="Formel/raoul_dufy/1909-1910-les-bateaux-2.jpg"></a></td>
+    <td><a href="Formel/robert_delaunay/1906-07-nature-morte-aux-gants.jpg">
+    <img src="Formel/robert_delaunay/1906-07-nature-morte-aux-gants.jpg"></a></td>
 </tr>
 
 <tr>
