@@ -207,16 +207,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/roger_de_la_fresnaye/1909-the-canal-brittany-landscape.jpg">
+    <img src="Formel/roger_de_la_fresnaye/1909-the-canal-brittany-landscape.jpg"></a></td>
+    <td><a href="Formel/romuald_kamil_witkowski/1917-landscape-254.jpg">
+    <img src="Formel/romuald_kamil_witkowski/1917-landscape-254.jpg"></a></td>
+    <td><a href="Formel/rudolf_bauer/1913-15-untitled-abstract-forms-8.jpg">
+    <img src="Formel/rudolf_bauer/1913-15-untitled-abstract-forms-8.jpg"></a></td>
+    <td><a href="Formel/sophie_taeuber_arp/1917-demi-cercle.jpg">
+    <img src="Formel/sophie_taeuber_arp/1917-demi-cercle.jpg"></a></td>
+    <td><a href="Formel/tadeusz_makowski/1906-krakow-wedding.jpg">
+    <img src="Formel/tadeusz_makowski/1906-krakow-wedding.jpg"></a></td>
 </tr>
 
 <tr>
