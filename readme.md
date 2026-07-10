@@ -220,6 +220,19 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
+    <td><a href="Formel/theo_colenbrander/1896-advertentie-van-kunsthandelaar-meijer-w-goudeket.jpg">
+    <img src="Formel/theo_colenbrander/1896-advertentie-van-kunsthandelaar-meijer-w-goudeket.jpg"></a></td>
+    <td><a href="Formel/theo_van_doesburg/1914-girl-with-buttercups.jpg">
+    <img src="Formel/theo_van_doesburg/1914-girl-with-buttercups.jpg"></a></td>
+    <td><a href="Formel/viking_eggeling/1917-18-abstract-composition-i.jpg">
+    <img src="Formel/viking_eggeling/1917-18-abstract-composition-i.jpg"></a></td>
+    <td><a href="Formel/vilhelm_lundstrom/1919-figurgruppe-2.jpg">
+    <img src="Formel/vilhelm_lundstrom/1919-figurgruppe-2.jpg"></a></td>
+    <td><a href="Formel/walter_kurt_wiemken/1925-harlequin-4.jpg">
+    <img src="Formel/walter_kurt_wiemken/1925-harlequin-4.jpg"></a></td>
+</tr>
+
+<tr>
     <td><a href="Formel/">
     <img src="Formel/"></a></td>
     <td><a href="Formel/">
