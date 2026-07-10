@@ -3,16 +3,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 
 <table>
 <tr>
-    <td><a href="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg">
-    <img src="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg"></a></td>
+    <td><a height="20" href="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg">
+    <img height="100" src="Formel/adolf_wolfli/1905-rosalindalina-solosangara.jpg"></a></td>
     <td><a href="Formel/albert_gleizes/1911-paysage-a-meudon.jpg">
-    <img src="Formel/albert_gleizes/1911-paysage-a-meudon.jpg"></a></td>
+    <img height="100" src="Formel/albert_gleizes/1911-paysage-a-meudon.jpg"></a></td>
     <td><a href="Formel/alexandra_exter/1927-constructivist-stage-design.jpg">
-    <img src="Formel/alexandra_exter/1927-constructivist-stage-design.jpg"></a></td>
+    <img height="100" src="Formel/alexandra_exter/1927-constructivist-stage-design.jpg"></a></td>
     <td><a href="Formel/alfred_henry_maurer/1909-1910-still-life-31.jpg">
-    <img src="Formel/alfred_henry_maurer/1909-1910-still-life-31.jpg"></a></td>
+    <img height="100" src="Formel/alfred_henry_maurer/1909-1910-still-life-31.jpg"></a></td>
     <td><a href="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg">
-    <img src="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg"></a></td>
+    <img height="100" src="Formel/amadeo_de_souza_cardoso/1907-1917-the-stronghold.jpg"></a></td>
 </tr>
 <tr>
     <td><a href="Formel/angel_zarraga/1915-muchachita-con-frutas.jpg">
