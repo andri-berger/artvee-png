@@ -181,16 +181,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/paul_gaulois/1924-25-cubist-design.jpg">
+    <img src="Formel/paul_gaulois/1924-25-cubist-design.jpg"></a></td>
+    <td><a href="Formel/paul_klee/1903-der-komiker.jpg">
+    <img src="Formel/paul_klee/1903-der-komiker.jpg"></a></td>
+    <td><a href="Formel/paul_kleinschmidt/1925-hortensien-und-tulpen.jpg">
+    <img src="Formel/paul_kleinschmidt/1925-hortensien-und-tulpen.jpg"></a></td>
+    <td><a href="Formel/paul_nash/1913-trees-in-bird-garden-iver-heath.jpg">
+    <img src="Formel/paul_nash/1913-trees-in-bird-garden-iver-heath.jpg"></a></td>
+    <td><a href="Formel/paul_serusier/1888-the-talisman.jpg">
+    <img src="Formel/paul_serusier/1888-the-talisman.jpg"></a></td>
 </tr>
 
 <tr>
