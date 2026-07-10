@@ -65,7 +65,7 @@ Abstract Paintings from the public domain to be used as base material in the pro
 
 <tr>
     <td><a href="Formel/hugo_scheiber/1918-grosstadtszene.jpg">
-    <img src="Formel/1918-grosstadtszene.jpg"></a></td>
+    <img src="Formel/hugo_scheiber/1918-grosstadtszene.jpg"></a></td>
     <td><a href="Formel/james_ensor/1880-etoffes-bleues-et-roses.jpg">
     <img src="Formel/james_ensor/1880-etoffes-bleues-et-roses.jpg"></a></td>
     <td><a href="Formel/james_ward/1912-agreeable-contrast-of-plum-violet-and-sage-green.jpg">
@@ -78,7 +78,7 @@ Abstract Paintings from the public domain to be used as base material in the pro
 
 <tr>
     <td><a href="Formel/joaquin_torres_garcia/1918-paisaje-de-ciudad-2.jpg.jpg">
-    <img src="Formel/joaquin_torres_garcia/1918-paisaje-de-ciudad-2.jpg.jpg"></a></td>
+    <img src="Formel/joaquin_torres_garcia/1918-paisaje-de-ciudad-2.jpg"></a></td>
     <td><a href="Formel/johann_wolfgang_von_goethe/1810-zur-farbenlehre-pl-01.jpg">
     <img src="Formel/johann_wolfgang_von_goethe/1810-zur-farbenlehre-pl-01.jpg"></a></td>
     <td><a href="Formel/johanna_van_de_kamer/1890-1922-kleurencirkel.jpg">
@@ -152,6 +152,58 @@ Abstract Paintings from the public domain to be used as base material in the pro
     <img src="Formel/mary_gartside/1808-blue.jpg"></a></td>
     <td><a href="Formel/max_beckmann/1909-scene-from-the-destruction-of-messina.jpg">
     <img src="Formel/max_beckmann/1909-scene-from-the-destruction-of-messina.jpg"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/mizuki_heitaro/1930-abstract-pattern-portfolio-pl-01.jpg">
+    <img src="Formel/mizuki_heitaro/1930-abstract-pattern-portfolio-pl-01.jpg"></a></td>
+    <td><a href="Formel/nils_dardel/1908-courting-2.jpg">
+    <img src="Formel/nils_dardel/1908-courting-2.jpg"></a></td>
+    <td><a href="Formel/odilon_redon/1876-figure-portant-une-tete-ailee-la-chute-dlcare.jpg">
+    <img src="Formel/odilon_redon/1876-figure-portant-une-tete-ailee-la-chute-dlcare.jpg"></a></td>
+    <td><a href="Formel/ole_kandelin/1943-at-a-palace-gate.jpg">
+    <img src="Formel/ole_kandelin/1943-at-a-palace-gate.jpg"></a></td>
+    <td><a href="Formel/oscar_bluemner/1911-1917-evening-tones.jpg">
+    <img src="Formel/oscar_bluemner/1911-1917-evening-tones.jpg"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+</tr>
+
+<tr>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
+    <td><a href="Formel/">
+    <img src="Formel/"></a></td>
 </tr>
 
 <tr>
