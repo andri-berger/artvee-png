@@ -168,16 +168,16 @@ Abstract Paintings from the public domain to be used as base material in the pro
 </tr>
 
 <tr>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
-    <td><a href="Formel/">
-    <img src="Formel/"></a></td>
+    <td><a href="Formel/otto_freundlich/1911-composition-15.jpg">
+    <img src="Formel/otto_freundlich/1911-composition-15.jpg"></a></td>
+    <td><a href="Formel/otto_lange/1916-tulpen-3.jpg">
+    <img src="Formel/otto_lange/1916-tulpen-3.jpg"></a></td>
+    <td><a href="Formel/otto_meyer_amden/1913-15-diagonal-komposition-auferstehungsmotiv.jpg">
+    <img src="Formel/otto_meyer_amden/1913-15-diagonal-komposition-auferstehungsmotiv.jpg"></a></td>
+    <td><a href="Formel/otto_mueller/1910-zwei-madchen-auf-der-waldwiese.jpg">
+    <img src="Formel/otto_mueller/1910-zwei-madchen-auf-der-waldwiese.jpg"></a></td>
+    <td><a href="Formel/paul_gauguin/1888-still-life-with-three-puppies.jpg">
+    <img src="Formel/paul_gauguin/1888-still-life-with-three-puppies.jpg"></a></td>
 </tr>
 
 <tr>
